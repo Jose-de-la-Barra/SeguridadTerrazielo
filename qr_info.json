@@ -1,0 +1,16 @@
+[
+    {
+        "RUN": "20882255-1",
+        "Numero de pulsera": "34",
+        "Informacion": {
+            "Informacion1": {
+                "Bandera": "Roja",
+                "Comentario": "Caca"
+            },
+            "Informacion2": {
+                "Bandera": "Amarilla",
+                "Comentario": "Tiene pito chico"
+            }
+        }
+    }
+]
